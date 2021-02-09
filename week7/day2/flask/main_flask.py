@@ -28,7 +28,6 @@ def give_id():
 # ---------- Other functions ----------
 
 def main():
-    print("---------STARTING PROCESS---------")
     print(os.path.dirname(os.getcwd()))
     
     # Get the settings fullpath
